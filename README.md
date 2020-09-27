@@ -2,7 +2,7 @@
  This is a Capture the Flag style type game which will involve hacking
 
 # Situation
-CPU Pro whose slogan goes by *"The Best CPU Processors for the Best Prices"* is offering a bug bounty and a huge reward. Find the flag by finding a way into the admin account.
+CPU Pro whose slogan goes by *"The Best CPU Processors for the Best Prices"* is offering a bug bounty with a huge reward. Find the flag by finding a way into the admin account.
 
 # Prerequisites
   * Install XAMPP (*Note: If XAMPP is not installed with default setting or with Windows, somethings may differ*)
