@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  background-image: url("../images/background.jpg");
+  background-position: left top;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#navBar {
+  list-style-type: None;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-size: 100%;
+}
+
+a:link {
+  border: 2px solid white;
+  float: left;
+  display: block;
+  padding: .75% 2%;
+  background: rgba(220, 220, 220, 0.6);
+  color: white;
+  text-align: center;
+  font-size: 115%;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  background-color: green;
+}
+
+.header {
+  text-align: center;
+  line-height: 30%;
+  webkit-text-stroke: .5px black; 
+}
+
+#title {
+  font-size: 400%;
+}     
