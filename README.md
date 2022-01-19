@@ -1,5 +1,5 @@
 # CPU-Pro-CTF
- This is a Capture the Flag style type game which will involve hacking
+ This is a Capture the Flag type game, in which players find the flag by locating a vulnerability/exploit of the website
 
 # Situation
 CPU Pro whose slogan goes by *"The Best CPU Processors for the Best Prices"* is offering a bug bounty with a huge reward. Find the flag by finding a way into the admin account.
